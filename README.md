@@ -1,0 +1,2 @@
+# weibo_comment-avatar_scrapy
+能够指定关键词和总页数从微博爬取关键词相关的微博内容并下载头像
